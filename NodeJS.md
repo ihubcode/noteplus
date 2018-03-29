@@ -43,3 +43,18 @@ $ nvm install latest
 
 > 注释：windows下（其他系统下没有测试），安装nvm前不能存在nodejs版本的安装，否则当nvm切换nodejs版本后，npm将提示为无效命令
 
+```
+// 显示通过nvm已经安装好的nodejs版本列表
+$ nvm list
+
+// 切换nodejs版本
+$ nvm use <version>
+
+// 查看当前环境nodejs版本
+$ node -v
+
+// npm 命令...
+$ npm -v 
+$ npm intall pkgname [--save-dev]/[--save]
+```
+
