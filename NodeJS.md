@@ -38,8 +38,8 @@ $ nvm install latest
 //... install more version
 ```
 
-- 在系统本地安装一个nodejs版本（推荐最新版）
--  之后就可以愉快的nvm切换玩耍了....
+- 最后，在系统本地安装一个nodejs版本（推荐最新版）
+-  于是我们可以愉快的nvm切换玩耍了....
 
 > 注释：windows下（其他系统下没有测试），安装nvm前不能存在nodejs版本的安装，否则当nvm切换nodejs版本后，npm将提示为无效命令
 
