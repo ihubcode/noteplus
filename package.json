@@ -1,0 +1,11 @@
+{
+  "name": "noteplus",
+  "version": "1.0.0",
+  "description": "A record of practical experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ihubcode",
+  "license": "ISC"
+}
