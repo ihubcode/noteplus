@@ -10,7 +10,7 @@
 
 
 
-#### 1. NVM 切换nodejs版本
+#### NVM 切换nodejs版本
 
 [nvm](http://nvm.sh) 工具  下载地址：http://nvm.sh
 
